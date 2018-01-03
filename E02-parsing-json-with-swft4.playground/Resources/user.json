@@ -1,0 +1,15 @@
+{
+    "name": "Mike Ross",
+    "username": "mross",
+    "phone_number": "555-5232-4355",
+    "devices": [
+        {
+            "name": "iPhone X",
+            "manufacturer": "Apple"
+        },
+        {
+            "name": "iPhone 8 Plus",
+            "manufacturer": "Apple"
+        }
+    ]
+}
